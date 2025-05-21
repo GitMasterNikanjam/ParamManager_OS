@@ -1,0 +1,14 @@
+.vscode/
+build/
+bin/
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+
